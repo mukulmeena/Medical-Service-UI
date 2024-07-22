@@ -70,7 +70,7 @@ export const HomePage = () => {
   return (
     <div className={style.homePage_div}>
       <header>
-        <h2>Cappsule web development test</h2>
+        <h2>Medicine Store Finder</h2>
       </header>
       <SearchBar
         setInputText={setInputText}
